@@ -1,0 +1,21 @@
+{
+	"debug": {
+		"batch_size": 2,
+		"epochs": 2,
+		"num_workers": 1,
+		"patience": 1
+	},
+	"default": {
+		"batch_size": 4,
+		"epochs": 20,
+		"num_workers": 4,
+		"patience": 5
+	},
+	"model": {
+		"data_rep": [0.6, 0.2, 0.2],
+		"lr": 1e-4,
+		"momentum": 0.9,
+		"weight_decay": 1e-5,
+		"dropout": 0.2
+	}
+}
