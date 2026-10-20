@@ -78,4 +78,4 @@ Data to be used are selected from the "data" folder and results are saved in the
 }
 ```
 
-License: MIT.
+License: [MIT](https://mit-license.org/).
